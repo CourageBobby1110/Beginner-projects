@@ -78,15 +78,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [W3schools - css flexbox](https://www.w3schools.com/csS/css3_flexbox.asp) - This helped me understand the basic concept of flexbox . I really liked how direct and simple the explanation was .
-- [w3schools -css media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) - This is an amazing article which helped me finally understand media queries. I'd recommend it to anyone still learning this concept.
+- [W3schools - css flexbox](https://www.w3schools.com/csS/css3_flexbox.asp) - This helped me understand the basic concept of flexbox . I really liked how direct and simple the explanation was.
+- [W3schools -css media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) - This is an amazing article which helped me finally understand media queries. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
 - Frontend Mentor - [@CourageBobby1110](https://www.frontendmentor.io/profile/@CourageBobby1110)
 - instagram - [@hbird036](https://instagram.com/hbird036?igshid=ZDdkNTZiNTM=)
--twitter - [@ravensraven80](https://twitter.com/ravensraven80?t=WrLhdS7cqHXxtZhUqI5-JQ&s=08) 
+- twitter - [@ravensraven80](https://twitter.com/ravensraven80?t=WrLhdS7cqHXxtZhUqI5-JQ&s=08) 
 
 
 
