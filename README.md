@@ -68,6 +68,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     margin-top: 4rem;
      width: 900px
 }
+```
 
 
 ### Continued development
