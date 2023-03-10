@@ -1,2 +1,0 @@
-# Beginner-projects
-Beginner projects
