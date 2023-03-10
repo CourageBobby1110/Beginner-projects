@@ -1,0 +1,111 @@
+*{
+
+    font-family: 'Outfit', sans-serif;
+
+}
+
+body{
+    height: 100vh;
+    background:hsl(212, 45%, 89%);
+    overflow-x: hidden;
+}
+
+
+
+.qrcode-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+     
+    width: 900px;
+    padding: 50px 40px 50px 40px;
+    margin-left: 145px;
+    margin-bottom: 200px;
+    flex-wrap: wrap;
+   
+
+    
+    
+    
+    
+    
+
+}
+.qrcode-container img{
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    
+}
+.qrcodecontainer-text{
+    margin-left: 1.5rem;
+    width: 300px;
+    padding: 10px;
+    margin-right: 15px;
+}
+.qrcodecontainer-content{
+    width: 300px;
+    height: 400px;
+    background-color:white; 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 20px;
+    
+    
+}
+.qrcodecontainer-text p{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+     color: hsl(218, 44%, 22%);
+    
+}
+.qrcodecontainer-text h1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700 ;
+    color: hsl(218, 44%, 22%);
+    
+}
+
+@media only  screen and (max-width:400px){
+    .qrcode-container {
+    width: 200px;
+    align-content: center;
+    margin-left: 50px;
+    margin-top: 20px;
+
+    }
+    
+    .qrcode-container img{
+        height: 200px;
+        width: 200px;
+    }
+    .qrcodecontainer-text{
+        width: 200px
+        
+    }
+    .qrcodecontainer-text p{
+        font-size: 10px;
+
+    }
+    .qrcodecontainer-content{
+        width: 200px;
+        height: 300px;
+        
+
+    }
+    .qrcodecontainer-content h1{
+        font-size: 15px;
+    }
+    .myProfile{
+        display: flex;
+        flex-direction: row;
+    
+    }
+    
+}
